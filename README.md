@@ -7,7 +7,7 @@ operands by splitting them into two three-digit halves (a low limb and a high
 limb) and propagating the carry or borrow between them by hand. The
 multiplication program instead builds its result by repeated addition.
 
-**Authors:** [Dmitriy Kuramshin](https://github.com/Krmsh1n5) · _add your teammates here_
+**Authors:** [Dmitriy Kuramshin](https://github.com/Krmsh1n5)
 
 ## The machine
 
